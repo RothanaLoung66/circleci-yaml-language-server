@@ -11,3 +11,5 @@ coverage
 __debug_bin
 report.xml
 .idea
+
+.fake
