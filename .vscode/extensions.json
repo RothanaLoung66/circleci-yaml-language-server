@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "ms-vscode.remote-explorer",
-        "ms-vscode.remote-server"
+        "ms-vscode.remote-server",
+        "circleci.circleci"
     ]
 }
